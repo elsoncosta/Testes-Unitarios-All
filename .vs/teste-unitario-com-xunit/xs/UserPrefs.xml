@@ -3,19 +3,22 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.calculos.tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Calulcos.Console FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Calulcos.Console/Program.cs">
     <Files>
-      <File FileName="Calulcos.Console/Program.cs" Line="1" Column="1" />
+      <File FileName="Calulcos.Console/Program.cs" Line="9" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="teste-unitario-com-xunit" expanded="True">
-            <Node name="Calulcos.Console" expanded="True" />
+            <Node name="Calulcos.Console" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
