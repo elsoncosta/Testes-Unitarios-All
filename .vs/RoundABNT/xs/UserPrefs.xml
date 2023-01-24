@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{620C3303-276D-4FC6-872A-9B5BB5C2578E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecimalExtensions.cs">
+    <Files>
+      <File FileName="TesteArredondamento/TesteArredondamento.cs" Line="5" Column="7" />
+      <File FileName="DecimalExtensions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundABNT" expanded="True">
+            <Node name="RoundABNT" expanded="True">
+              <Node name="TesteArredondamento" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RoundABNT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
